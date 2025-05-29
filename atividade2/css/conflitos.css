@@ -1,0 +1,14 @@
+ul{
+    font: 20;
+}
+li{
+    font-style: italic;
+    font-size: 18;
+}
+#atuais{
+    font-style: oblique;
+}
+
+body{
+    background-color: blueviolet;
+}
