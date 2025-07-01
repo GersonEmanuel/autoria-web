@@ -1,0 +1,50 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+head {
+    margin-bottom: 30px;
+    border-bottom: 4px solid;
+    padding: 20px;
+}
+
+footer{
+    background-color: rgb(236, 43, 43);
+    font-size: 30px;
+    margin-top: 40px;
+    border-top: 2px solid;
+    padding: 15px;
+}
+
+
+.perfil {
+    margin: 50px auto;
+    border: 3px solid;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 800px;
+}
+
+.perfil img{
+    margin-bottom: 20px;
+    border: 5px solid;
+    padding: 8px;
+}
+
+.perfil h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+.perfil p{
+    font-size: 30px;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+}
+
