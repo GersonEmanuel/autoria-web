@@ -1,9 +1,11 @@
 body {
     padding: 0;
     margin: 0;
+    background-color: rgb(252, 240, 240);
 }
 
-head {
+header {
+    background-color: rgb(236, 43, 43);
     margin-bottom: 30px;
     border-bottom: 4px solid;
     padding: 20px;
